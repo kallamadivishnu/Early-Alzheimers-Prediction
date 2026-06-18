@@ -10,11 +10,7 @@ results/*.png
 results/*.txt
 
 dataset/
-
-models/*.keras
-
 .DS_Store
 Thumbs.db
-
 .vscode/
-.idea/
+.idea/ 
